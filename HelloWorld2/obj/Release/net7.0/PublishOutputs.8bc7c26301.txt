@@ -1,0 +1,5 @@
+C:\inetpub\wwwroot\demoApp\HelloWorld2.exe
+C:\inetpub\wwwroot\demoApp\HelloWorld2.dll
+C:\inetpub\wwwroot\demoApp\HelloWorld2.deps.json
+C:\inetpub\wwwroot\demoApp\HelloWorld2.runtimeconfig.json
+C:\inetpub\wwwroot\demoApp\HelloWorld2.pdb

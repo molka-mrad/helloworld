@@ -1,0 +1,5 @@
+C:\Users\molka.mrad\source\repos\HelloWorld2\HelloWorld2\bin\Release\net7.0\publish\HelloWorld2.exe
+C:\Users\molka.mrad\source\repos\HelloWorld2\HelloWorld2\bin\Release\net7.0\publish\HelloWorld2.dll
+C:\Users\molka.mrad\source\repos\HelloWorld2\HelloWorld2\bin\Release\net7.0\publish\HelloWorld2.deps.json
+C:\Users\molka.mrad\source\repos\HelloWorld2\HelloWorld2\bin\Release\net7.0\publish\HelloWorld2.runtimeconfig.json
+C:\Users\molka.mrad\source\repos\HelloWorld2\HelloWorld2\bin\Release\net7.0\publish\HelloWorld2.pdb
